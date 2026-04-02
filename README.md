@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Serrat</h1>
-<h3 align="center">A neuroscientist passionate about programming</h3>
+<h3 align="center">A neuroscientist enthusiastic about programming</h3>
 
 - I’m currently working on **cognitive neurosciences**
 
