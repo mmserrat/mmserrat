@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Serrat</h1>
-<h3 align="center">A neuroscientist enthusiastic about programming</h3>
+<h3 align="center">Self-taught builder, formally trained elsewhere.
+Currently focused on data and applied AI.</h3>
 
-- Clinical neuroscience by training. Drawn to the architecture of data, behavior, and the systems that connect them.
+- Clinical neuroscience and EEG/ERP research background.
+Currently focused on data science and computational methods.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
