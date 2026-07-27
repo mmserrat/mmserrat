@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Serrat</h1>
 <h3 align="center">A neuroscientist enthusiastic about programming</h3>
 
-- Clinical neuroscience by training. Drawn to the architecture of data, behavior, and the systems that connect them.**
+- Clinical neuroscience by training. Drawn to the architecture of data, behavior, and the systems that connect them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
