@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Serrat</h1>
+<h1 align="center">⋆.ೃ࿔*:･Hi, I'm Serrat⋆.ೃ࿔*:･</h1>
 <h3 align="center">Building a career in Data Analysis and Business Intelligence.</h3>
 
 - Clinical and cognitive neuroscience research background, now applied to data science and computational methods.
