@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Serrat</h1>
-<h3 align="center">Exploring data analysis and its applications in retail, demand forecasting, inventory, and consumer behavior.</h3>
+<h3 align="center">Building a career in Data Analysis and Business Intelligence.</h3>
 
-- Clinical neuroscience and EEG/ERP research background, now applied to data science and computational methods.
+- Clinical and cognitive neuroscience research background, now applied to data science and computational methods.
+- Exploring data-driven decision-making across supply chain, retail, and consumer behavior.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
